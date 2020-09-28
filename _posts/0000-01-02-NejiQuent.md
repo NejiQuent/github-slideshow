@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lewis Hamilton 44
 Use the left arrow to go back!
